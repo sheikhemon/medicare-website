@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "description": "General Doctor",
+        "picture": "https://cdn.pixabay.com/photo/2017/01/29/21/16/nurse-2019420_960_720.jpg",
+        "name": "Dr. Ere Hayat"
+    },
+    {
+        "id": 2,
+        "description": "Virus Specialist",
+        "picture": "https://cdn.pixabay.com/photo/2020/03/14/17/05/virus-4931227_960_720.jpg",
+        "name": "Br. Thinci Wangru"
+    },
+    {
+        "id": 3,
+        "description": "General Doctor",
+        "picture": "https://cdn.pixabay.com/photo/2014/12/10/21/01/doctor-563429_960_720.jpg",
+        "name": "Dr. Lucky Bappa"
+    },
+    {
+        "id": 4,
+        "description": "General Doctor",
+        "picture": "https://cdn.pixabay.com/photo/2016/02/08/23/36/isolated-1188036_960_720.png",
+        "name": "Dr. Ander Braman"
+    },
+    {
+        "id": 5,
+        "description": "Dentist Doctor",
+        "picture": "https://cdn.pixabay.com/photo/2017/07/23/10/44/dentist-2530990_960_720.jpg",
+        "name": "Dr. Harry Mollak"
+    },
+    {
+        "id": 6,
+        "description": "Psychiatrist",
+        "picture": "https://cdn.pixabay.com/photo/2020/11/03/15/31/doctor-5710152_960_720.jpg",
+        "name": "Dr. Ykuran Wanner"
+    },
+    {
+        "id": 7,
+        "description": "Medicine Specialist ",
+        "picture": "https://cdn.pixabay.com/photo/2017/03/20/00/51/dr-2157993_960_720.jpg",
+        "name": "Dr. Raga Rignra"
+    },
+    {
+        "id": 8,
+        "description": "Eye Specialist",
+        "picture": "https://cdn.pixabay.com/photo/2017/03/13/21/41/scientist-2141259_960_720.jpg",
+        "name": "Dr. Steven Curl"
+    }
+]

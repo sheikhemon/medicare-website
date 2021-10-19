@@ -1,0 +1,11 @@
+.footer{
+    background-color: #194271;
+}
+.li-style{
+    color: #afaf99;
+    display: block;
+    margin-top: 10px;
+}
+.li-style:hover{
+color: tomato;
+}

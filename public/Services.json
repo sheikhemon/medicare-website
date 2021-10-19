@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "price": "$50",
+        "des": "Consult with the top doctors online over chat or call at just INR 100 from anywhere & get answers to all your medical queries only on Health.",
+        "picture": "https://cdn.pixabay.com/photo/2020/04/08/07/19/eye-care-5016057_960_720.jpg",
+        "name": "Consultation"
+    },
+    {
+        "id": 2,
+        "price": "$40",
+        "des": "Get information on basic baby care, baths, burping, gas, jaundice, pediatricians, medicine, shaken baby syndrome, and more from specialist doctors",
+        "picture": "https://cdn.pixabay.com/photo/2020/03/24/05/37/family-4962871_960_720.jpg",
+        "name": "Baby Care"
+    },
+    {
+        "id": 3,
+        "price": "$20",
+        "des": "Prenatal Health Care. The key to protecting the health of your child is to get regular prenatal care. If you think you're pregnant, call our pregnant care section",
+        "picture": "https://cdn.pixabay.com/photo/2018/06/20/14/09/consultation-3486590_960_720.jpg",
+        "name": "Pregnant Care"
+    },
+    {
+        "id": 4,
+        "price": "$100",
+        "des": "Magnetic resonance imaging (MRI) is a type of scan that uses strong magnetic fields and radio waves to produce detailed images of the inside of the body",
+        "picture": "https://cdn.pixabay.com/photo/2019/08/03/22/22/bone-4382746_960_720.jpg",
+        "name": "MRI Scanning"
+    },
+    {
+        "id": 5,
+        "price": "$200",
+        "des": "We are provide medicine from our store, And here is all elements for do operation. Our all of doctor are very experienced at service so no need to worry about operation ",
+        "picture": "https://cdn.pixabay.com/photo/2016/07/24/21/01/thermometer-1539191_960_720.jpg",
+        "name": "Medicine & operation"
+    },
+    {
+        "id": 6,
+        "price": "$80",
+        "des": "Childbirth delivery options include natural unassisted childbirth, assisted childbirth, and delivery by Cesarean surgery.We are try to normal Delivar",
+        "picture": "https://cdn.pixabay.com/photo/2016/01/19/18/13/baby-1150109_960_720.jpg",
+        "name": "Child birth"
+    }
+]

@@ -1,0 +1,35 @@
+.header{
+    background-color:#194271;  
+}
+.link-style{
+    color: white;
+    font-size: 17px;
+    text-decoration: none;
+    margin: 5px;
+    padding: 5px;
+    line-height: 70px;
+    font-family: sans-serif;
+    }
+    .link-style:hover{
+        color: rgb(251, 255, 0);
+    }
+    .login{
+        border-radius: 30px;
+        padding: 5px 10px;
+        background-color: red;
+        color: black;
+    }
+    .login:hover{
+        background-color:rgb(251, 255, 0);
+        color: black;
+    }
+    .live{
+        border-radius: 30px;
+        padding: 5px 10px;
+        background-color: rgb(251, 255, 0);
+        color: black;
+    }
+    .live:hover{
+        background-color: red;
+        color: black;
+    }
