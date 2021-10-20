@@ -8,6 +8,17 @@
     font-family: Georgia, 'Times New Roman', Times, serif
 }
 
+.footer-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.social {
+    color: white;
+}
+
 .li-style {
     color: #ffffff;
     display: block;
@@ -16,4 +27,8 @@
 
 .li-style:hover {
     color: rgb(19, 212, 61);
+}
+
+.copyright {
+    background-color: #081f3a;
 }
