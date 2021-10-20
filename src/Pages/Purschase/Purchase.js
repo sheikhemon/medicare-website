@@ -14,7 +14,6 @@ const Purchase = () => {
             .then(data => setDetails(data.purch))
     }, []);
     console.log(details)
-
     useEffect(() => {
         const getDetails = details.find(detail => detail.id === parseFloat(Id))
         setService(getDetails)

@@ -1,11 +1,13 @@
-.footer{
-    background-color: #194271;
+.footer {
+    background-color: #081f3a;
 }
-.li-style{
+
+.li-style {
     color: #afaf99;
     display: block;
     margin-top: 10px;
 }
-.li-style:hover{
-color: tomato;
+
+.li-style:hover {
+    color: tomato;
 }

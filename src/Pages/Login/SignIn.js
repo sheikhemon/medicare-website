@@ -40,7 +40,7 @@ const SignIn = () => {
             <h3 className="text-danger mt-3">{error}</h3>
             <div className="mb-3 text-start mt-3">
                 <label htmlFor="exampleFormControlInput1" className="form-label">Email address</label>
-                <input onBlur={handleEmailChange} type="email" className="form-control" id="exampleFormControlInput1" placeholder="alishorif4321@gmail.com" required />
+                <input onBlur={handleEmailChange} type="email" className="form-control" id="exampleFormControlInput1" placeholder="sheikhemon@gmail.com" required />
             </div>
 
             <div className="mb-3 text-start">
@@ -48,7 +48,7 @@ const SignIn = () => {
                 <input onBlur={handlePasswordChange} type="password" className="form-control" id="exampleFormControlInput1" placeholder="" />
 
                 <div className="mt-3">
-                    <button onClick={loginInUsingPassword} className=" btn-sm bg-info me-3 ">Login</button>
+                    <button onClick={loginInUsingPassword} className=" btn-sm bg-info me-3 px-3">Login</button>
                     <Link to="/login">I have no account</Link>
                 </div>
             </div>

@@ -2,14 +2,11 @@ import { getAuth, signInWithPopup, GoogleAuthProvider, signOut, onAuthStateChang
 
 import { useEffect, useState } from "react";
 import initializeAuthentication from "../firebase.init";
-
 initializeAuthentication();
-
 const useFirebase = () => {
     const [user, setUser] = useState({})
     const [error, setError] = useState('')
     const [isLoading, setIsLoading] = useState(true)
-
     const auth = getAuth();
     const googleProvider = new GoogleAuthProvider();
 
@@ -19,7 +16,6 @@ const useFirebase = () => {
         return signInWithPopup(auth, googleProvider)
             .finally(() => setIsLoading(false))
     }
-
     /* ======= Sing up by password =====  */
     const signUpUsingPassword = (email, password) => {
         setIsLoading(true);
@@ -36,7 +32,6 @@ const useFirebase = () => {
                 setError(error.message)
             }).finally(() => setIsLoading(false))
     }
-
     /* ======= Sing in by password =====  */
     const signInUsingPassword = (email, password) => {
         return signInWithEmailAndPassword(auth, email, password)

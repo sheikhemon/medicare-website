@@ -36,11 +36,11 @@ const Login = () => {
 
     return (
         <div className="container w-75">
-            <h2 className="text-secondary mt-3">Please Register</h2>
+            <h2 className="text-secondary mt-3">Please Registration</h2>
             <h3 className="text-danger mt-3">{error}</h3>
             <div className="mb-3 text-start mt-3">
                 <label htmlFor="exampleFormControlInput1" className="form-label">Email address</label>
-                <input onBlur={handleEmailChange} type="email" className="form-control" id="exampleFormControlInput1" placeholder="alishorif4321@gmail.com" required />
+                <input onBlur={handleEmailChange} type="email" className="form-control" id="exampleFormControlInput1" placeholder="skemonalom@gmail.com" required />
             </div>
 
             <div className="mb-3 text-start">
@@ -49,12 +49,12 @@ const Login = () => {
 
                 <div className="mt-3 d-md-flex">
                     <button onClick={handleRegistration} className=" btn-sm bg-info me-3">Register</button>
-                    <Link to="/signin">Already Registerd ?</Link>
+                    <Link className="register-allReady" to="/signin">Already Registerd ?</Link>
                 </div>
             </div>
 
             <div className="py-3 mb-3">
-                <button onClick={landleGoogleLogin} className="bg-primary"><i className="fab fa-google"></i> Sign In With Google </button>
+                <button onClick={landleGoogleLogin} className="bg-primary text-white px-3 py-1 mb-5"><i className="fab fa-google"></i> Sign In With Google </button>
             </div>
         </div>
     );

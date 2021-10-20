@@ -15,7 +15,7 @@ const Service = (props) => {
 
                     {/* =========Dinamic Route setup=========== */}
 
-                    <Link to={`/purchase/${id}`} ><button className="btn-sm bg-primary text-white"><i className="fas fa-cart-plus"></i>Purchase Now</button></Link>
+                    <Link to={`/purchase/${id}`} ><button className="btn-sm bg-primary text-white"><i className="fas fa-cart-plus pe-2"></i>Purchase Now</button></Link>
                 </div>
             </div>
         </div>

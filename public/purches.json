@@ -2,22 +2,22 @@
     "purch": [
         {
             "id": 1,
-            "price": "$50",
-            "des": "Consult with the top doctors online over chat or call at just INR 100 from anywhere & get answers to all your medical queries only on Health.",
-            "picture": "https://cdn.pixabay.com/photo/2020/04/08/07/19/eye-care-5016057_960_720.jpg",
-            "name": "Consultation"
+            "price": "$100",
+            "des": "If you're using a computer, sign in to myGov and select Medicare.",
+            "picture": "https://images.unsplash.com/photo-1628348070889-cb656235b4eb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
+            "name": "Online Medicare"
         },
         {
             "id": 2,
-            "price": "$40",
-            "des": "Get information on basic baby care, baths, burping, gas, jaundice, pediatricians, medicine, shaken baby syndrome, and more from specialist doctors",
-            "picture": "https://cdn.pixabay.com/photo/2020/03/24/05/37/family-4962871_960_720.jpg",
+            "price": "$80",
+            "des": "Here's what you should know:  Medicare IS NOT sending new 2021 Medicare cards. number is no longer your Social Security number.",
+            "picture": "https://images.unsplash.com/photo-1578496781985-452d4a934d50?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
             "name": "Baby Care"
         },
         {
             "id": 3,
-            "price": "$20",
-            "des": "Prenatal Health Care. The key to protecting the health of your child is to get regular prenatal care. If you think you're pregnant, call our pregnant care section",
+            "price": "$30",
+            "des": "Medicare plans and people who represent them can't do any of these things: Ask for your Social Security Number,",
             "picture": "https://cdn.pixabay.com/photo/2018/06/20/14/09/consultation-3486590_960_720.jpg",
             "name": "Pregnant Care"
         },
@@ -25,21 +25,21 @@
             "id": 4,
             "price": "$100",
             "des": "Magnetic resonance imaging (MRI) is a type of scan that uses strong magnetic fields and radio waves to produce detailed images of the inside of the body",
-            "picture": "https://cdn.pixabay.com/photo/2019/08/03/22/22/bone-4382746_960_720.jpg",
+            "picture": "https://images.unsplash.com/photo-1526256262350-7da7584cf5eb?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1lZGljYXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
             "name": "MRI Scanning"
         },
         {
             "id": 5,
             "price": "$200",
             "des": "We are provide medicine from our store, And here is all elements for do operation. Our all of doctor are very experienced at service so no need to worry about operation ",
-            "picture": "https://cdn.pixabay.com/photo/2016/07/24/21/01/thermometer-1539191_960_720.jpg",
+            "picture": "https://images.unsplash.com/photo-1619975102725-597d006b1a0f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fG1lZGljYXJlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
             "name": "Medicine & operation"
         },
         {
             "id": 6,
-            "price": "$80",
-            "des": "Childbirth delivery options include natural unassisted childbirth, assisted childbirth, and delivery by Cesarean surgery.We are try to normal Delivar",
-            "picture": "https://cdn.pixabay.com/photo/2016/01/19/18/13/baby-1150109_960_720.jpg",
+            "price": "$70",
+            "des": " Natural unassisted childbirth, assisted childbirth, and delivery by Cesarean surgery.We are try to normal Deliver",
+            "picture": "https://images.unsplash.com/photo-1576091160501-bbe57469278b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1170&q=80",
             "name": "Child birth"
         }
     ]

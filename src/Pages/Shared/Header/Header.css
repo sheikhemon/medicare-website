@@ -1,35 +1,48 @@
-.header{
-    background-color:#194271;  
+.header {
+    background-color: #081f3a;
 }
-.link-style{
+
+.link-style {
     color: white;
-    font-size: 17px;
+    font-size: 18px;
+    font-weight: 600;
     text-decoration: none;
-    margin: 5px;
-    padding: 5px;
+    text-transform: uppercase;
+    padding: 8px 14px;
+    margin-right: 5px;
     line-height: 70px;
     font-family: sans-serif;
-    }
-    .link-style:hover{
-        color: rgb(251, 255, 0);
-    }
-    .login{
-        border-radius: 30px;
-        padding: 5px 10px;
-        background-color: red;
-        color: black;
-    }
-    .login:hover{
-        background-color:rgb(251, 255, 0);
-        color: black;
-    }
-    .live{
-        border-radius: 30px;
-        padding: 5px 10px;
-        background-color: rgb(251, 255, 0);
-        color: black;
-    }
-    .live:hover{
-        background-color: red;
-        color: black;
-    }
+}
+
+.link-style:hover {
+    color: rgb(251, 255, 0);
+}
+
+.login {
+    border-radius: 30px;
+    padding: 5px 10px;
+    background-color: red;
+    color: black;
+}
+
+.login:hover {
+    background-color: rgb(251, 255, 0);
+    color: black;
+}
+
+.live {
+    border-radius: 30px;
+    padding: 5px 10px;
+    background-color: rgb(251, 255, 0);
+    color: black;
+}
+
+.live:hover {
+    background-color: red;
+    color: black;
+}
+
+.logo-name {
+    font-weight: 700;
+    font-size: 25px;
+}

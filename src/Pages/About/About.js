@@ -10,7 +10,7 @@ const About = () => {
     }, [])
     return (
         <div>
-            <h2 className="p-5">Professional Doctor & Service</h2>
+            <h2 className="p-5 text-center text-primary fw-bold">Medicare & Service</h2>
             <div className="row container m-auto">
                 {
                     doctors.map(doctor => <Doctor
