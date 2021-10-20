@@ -1,3 +1,13 @@
-.card:hover{
-   border: 1px solid rgb(184, 178, 178)
+.card {
+   border-radius: 20px;
+   border: 1px solid rgb(232, 222, 239);
+   transition: all .3s ease-in-out;
+   box-shadow: inset -12px -8px 40px rgb(247, 243, 236);
+}
+
+.card:hover {
+   color: white;
+   background-color: rgb(33, 7, 63);
+   box-shadow: inset -12px -8px 40px rgb(73, 69, 92);
+   transform: rotate(-2deg);
 }

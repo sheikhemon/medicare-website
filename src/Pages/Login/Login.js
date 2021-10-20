@@ -35,7 +35,7 @@ const Login = () => {
 
 
     return (
-        <div className="container w-75">
+        <div className="container w-50 mt-150">
             <h2 className="text-secondary mt-3">Please Registration</h2>
             <h3 className="text-danger mt-3">{error}</h3>
             <div className="mb-3 text-start mt-3">
@@ -48,7 +48,7 @@ const Login = () => {
                 <input onBlur={handlePasswordChange} type="password" className="form-control" id="exampleFormControlInput1" placeholder="" />
 
                 <div className="mt-3 d-md-flex">
-                    <button onClick={handleRegistration} className=" btn-sm bg-info me-3">Register</button>
+                    <button onClick={handleRegistration} className=" btn-sm bg-primary text-white me-3">Register</button>
                     <Link className="register-allReady" to="/signin">Already Registerd ?</Link>
                 </div>
             </div>

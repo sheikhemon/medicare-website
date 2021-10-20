@@ -16,12 +16,12 @@ const Support = () => {
                 </div>
 
                 <div className="text-start mb-3">
-                    <label for="exampleFormControlTextarea1" className="form-label "> Illness </label>
+                    <label for="exampleFormControlTextarea1" className="form-label "> Week Ness </label>
                     <input type="text" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" />
                 </div>
 
                 <div className="mb-3 text-start">
-                    <label for="exampleFormControlTextarea1" className="form-label">Description of the disease</label>
+                    <label for="exampleFormControlTextarea1" className="form-label">Description</label>
                     <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                 </div>
 
@@ -32,7 +32,7 @@ const Support = () => {
 
                 <div className="mb-3 form-check text-start">
                     <input type="checkbox" className="form-check-input" id="exampleCheck1" />
-                    <label className="form-check-label" for="exampleCheck1">Check me out</label>
+                    <label className="form-check-label" for="exampleCheck1">Check Out</label>
                 </div>
 
                 <button type="submit" className="btn btn-primary px-3">Submit</button>

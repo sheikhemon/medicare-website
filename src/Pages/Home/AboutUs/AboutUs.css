@@ -1,8 +1,11 @@
-.pt-70 {
-    padding-top: 80px;
+.pt-120 {
+    padding-top: 120px;
+    color: rgb(23, 13, 66);
 }
 
 .fs-40 {
     font-size: 48px;
     font-weight: 700;
+    color: rgb(23, 13, 66);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }

@@ -27,7 +27,7 @@ const Purchase = () => {
                     <h4 className="card-title">{service?.name}</h4>
                     <h6> Service Price: {service?.price}</h6>
                     <p className="card-text mx-3">{service?.des}</p>
-                    <Link to="/home" ><button className="btn-sm live "> Back to Punches </button></Link>
+                    <Link to="/home" ><button className="btn-sm bg-primary text-white "> Back to Purchase </button></Link>
 
                 </div>
             </div>

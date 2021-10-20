@@ -2,12 +2,18 @@
     background-color: #081f3a;
 }
 
+.footer-logo {
+    font-weight: 700;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
 .li-style {
-    color: #afaf99;
+    color: #ffffff;
     display: block;
     margin-top: 10px;
 }
 
 .li-style:hover {
-    color: tomato;
+    color: rgb(19, 212, 61);
 }

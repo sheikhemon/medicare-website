@@ -10,9 +10,10 @@ import Purchase from './Pages/Purschase/Purchase';
 import AuthProvider from './context/AuthProvider';
 import PrivateRoute from './Pages/PrivateRoute/PrivateRoute';
 import SignIn from './Pages/Login/SignIn';
+import './App.css'
 function App() {
   return (
-    <div className="App">
+    <div className="App" style={{ overflowX: "hidden" }}>
       {/* ==========Auth Context========== */}
       <AuthProvider>
         <Router>

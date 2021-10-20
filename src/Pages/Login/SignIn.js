@@ -48,13 +48,13 @@ const SignIn = () => {
                 <input onBlur={handlePasswordChange} type="password" className="form-control" id="exampleFormControlInput1" placeholder="" />
 
                 <div className="mt-3">
-                    <button onClick={loginInUsingPassword} className=" btn-sm bg-info me-3 px-3">Login</button>
+                    <button onClick={loginInUsingPassword} className=" btn-sm bg-primary text-white me-3 px-3">Login</button>
                     <Link to="/login">I have no account</Link>
                 </div>
             </div>
 
             <div className="py-3 mb-3">
-                <button onClick={landleGoogleLogin} className="live "><i className="fab fa-google"></i> Sign In With Google </button>
+                <button onClick={landleGoogleLogin} className="bg-primary text-white "><i className="fab fa-google"></i> Sign In With Google </button>
             </div>
         </div>
     );
